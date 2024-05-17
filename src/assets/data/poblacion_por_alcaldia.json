@@ -1,0 +1,66 @@
+[
+    {
+        "alcaldia": "Azcapotzalco",
+        "poblacion_total": 432205
+    },
+    {
+        "alcaldia": "Benito Juárez",
+        "poblacion_total": 434153
+    },
+    {
+        "alcaldia": "Coyoacán",
+        "poblacion_total": 614447
+    },
+    {
+        "alcaldia": "Cuajimalpa de Morelos",
+        "poblacion_total": 217686
+    },
+    {
+        "alcaldia": "Cuauhtémoc",
+        "poblacion_total": 545884
+    },
+    {
+        "alcaldia": "Gustavo A. Madero",
+        "poblacion_total": 1173351
+    },
+    {
+        "alcaldia": "Iztacalco",
+        "poblacion_total": 404695
+    },
+    {
+        "alcaldia": "Iztapalapa",
+        "poblacion_total": 1835486
+    },
+    {
+        "alcaldia": "La Magdalena Contreras",
+        "poblacion_total": 247622
+    },
+    {
+        "alcaldia": "Miguel Hidalgo",
+        "poblacion_total": 414470
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "poblacion_total": 152685
+    },
+    {
+        "alcaldia": "Tlalpan",
+        "poblacion_total": 699928
+    },
+    {
+        "alcaldia": "Tláhuac",
+        "poblacion_total": 392313
+    },
+    {
+        "alcaldia": "Venustiano Carranza",
+        "poblacion_total": 443704
+    },
+    {
+        "alcaldia": "Xochimilco",
+        "poblacion_total": 442178
+    },
+    {
+        "alcaldia": "Álvaro Obregón",
+        "poblacion_total": 759137
+    }
+]

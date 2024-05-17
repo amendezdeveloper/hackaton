@@ -1,0 +1,121 @@
+[
+    {
+        "alcaldia": "Azcapotzalco",
+        "num_reportes_fuga": 1604,
+        "num_reportes_falta_de_agua": 2607,
+        "num_reportes_encharcamiento": 58,
+        "num_reportes_desague_pluvial_bloqueado": 21
+    },
+    {
+        "alcaldia": "Benito Juárez",
+        "num_reportes_fuga": 2146,
+        "num_reportes_falta_de_agua": 6467,
+        "num_reportes_encharcamiento": 61,
+        "num_reportes_desague_pluvial_bloqueado": 47
+    },
+    {
+        "alcaldia": "Coyoacán",
+        "num_reportes_fuga": 6780,
+        "num_reportes_falta_de_agua": 8937,
+        "num_reportes_encharcamiento": 64,
+        "num_reportes_desague_pluvial_bloqueado": 23
+    },
+    {
+        "alcaldia": "Cuajimalpa de Morelos",
+        "num_reportes_fuga": 858,
+        "num_reportes_falta_de_agua": 1617,
+        "num_reportes_encharcamiento": 11,
+        "num_reportes_desague_pluvial_bloqueado": 0
+    },
+    {
+        "alcaldia": "Cuauhtémoc",
+        "num_reportes_fuga": 1989,
+        "num_reportes_falta_de_agua": 5782,
+        "num_reportes_encharcamiento": 104,
+        "num_reportes_desague_pluvial_bloqueado": 72
+    },
+    {
+        "alcaldia": "Gustavo A. Madero",
+        "num_reportes_fuga": 6071,
+        "num_reportes_falta_de_agua": 13435,
+        "num_reportes_encharcamiento": 145,
+        "num_reportes_desague_pluvial_bloqueado": 39
+    },
+    {
+        "alcaldia": "Iztacalco",
+        "num_reportes_fuga": 910,
+        "num_reportes_falta_de_agua": 8627,
+        "num_reportes_encharcamiento": 39,
+        "num_reportes_desague_pluvial_bloqueado": 24
+    },
+    {
+        "alcaldia": "Iztapalapa",
+        "num_reportes_fuga": 4330,
+        "num_reportes_falta_de_agua": 5345,
+        "num_reportes_encharcamiento": 267,
+        "num_reportes_desague_pluvial_bloqueado": 38
+    },
+    {
+        "alcaldia": "La Magdalena Contreras",
+        "num_reportes_fuga": 2204,
+        "num_reportes_falta_de_agua": 1278,
+        "num_reportes_encharcamiento": 14,
+        "num_reportes_desague_pluvial_bloqueado": 0
+    },
+    {
+        "alcaldia": "Miguel Hidalgo",
+        "num_reportes_fuga": 2381,
+        "num_reportes_falta_de_agua": 1507,
+        "num_reportes_encharcamiento": 46,
+        "num_reportes_desague_pluvial_bloqueado": 17
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "num_reportes_fuga": 160,
+        "num_reportes_falta_de_agua": 153,
+        "num_reportes_encharcamiento": 12,
+        "num_reportes_desague_pluvial_bloqueado": 1
+    },
+    {
+        "alcaldia": "Tlalpan",
+        "num_reportes_fuga": 6096,
+        "num_reportes_falta_de_agua": 7170,
+        "num_reportes_encharcamiento": 212,
+        "num_reportes_desague_pluvial_bloqueado": 13
+    },
+    {
+        "alcaldia": "Tláhuac",
+        "num_reportes_fuga": 1105,
+        "num_reportes_falta_de_agua": 3173,
+        "num_reportes_encharcamiento": 83,
+        "num_reportes_desague_pluvial_bloqueado": 7
+    },
+    {
+        "alcaldia": "Venustiano Carranza",
+        "num_reportes_fuga": 1024,
+        "num_reportes_falta_de_agua": 3811,
+        "num_reportes_encharcamiento": 81,
+        "num_reportes_desague_pluvial_bloqueado": 17
+    },
+    {
+        "alcaldia": "Xochimilco",
+        "num_reportes_fuga": 1872,
+        "num_reportes_falta_de_agua": 2303,
+        "num_reportes_encharcamiento": 69,
+        "num_reportes_desague_pluvial_bloqueado": 4
+    },
+    {
+        "alcaldia": "nan",
+        "num_reportes_fuga": 173,
+        "num_reportes_falta_de_agua": 168,
+        "num_reportes_encharcamiento": 13,
+        "num_reportes_desague_pluvial_bloqueado": 1
+    },
+    {
+        "alcaldia": "Álvaro Obregón",
+        "num_reportes_fuga": 5955,
+        "num_reportes_falta_de_agua": 4851,
+        "num_reportes_encharcamiento": 78,
+        "num_reportes_desague_pluvial_bloqueado": 30
+    }
+]
