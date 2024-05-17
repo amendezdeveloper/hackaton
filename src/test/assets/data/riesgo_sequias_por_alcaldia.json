@@ -1,0 +1,446 @@
+[
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048825659040375,
+        "longitud": -99.0601017658548,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048735282708172,
+        "longitud": -99.06010173331732,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04873523624182,
+        "longitud": -99.0602442927535,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048780424407923,
+        "longitud": -99.06024430906078,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048780408894636,
+        "longitud": -99.06029182888561,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048825597060468,
+        "longitud": -99.06029184520581,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048825565997124,
+        "longitud": -99.06038688488104,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04887075416266,
+        "longitud": -99.06038690122702,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049006318657934,
+        "longitud": -99.06038695026524,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049006458059107,
+        "longitud": -99.05995927126219,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04896126989388,
+        "longitud": -99.05995925503184,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04896125445383,
+        "longitud": -99.06000677490837,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048916066288424,
+        "longitud": -99.06000675866521,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048916050836176,
+        "longitud": -99.06005427852885,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048825674504773,
+        "longitud": -99.06005424601693,
+        "n_riesgo": "Muy bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049503027698,
+        "longitud": -99.06148009076523,
+        "n_riesgo": "Bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049457839536476,
+        "longitud": -99.06148007412274,
+        "n_riesgo": "Bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04945780786041,
+        "longitud": -99.06157511415581,
+        "n_riesgo": "Bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04950299602185,
+        "longitud": -99.06157513082402,
+        "n_riesgo": "Bajo"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04950338845693,
+        "longitud": -99.0603871300756,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048870723050303,
+        "longitud": -99.0604819409278,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048915911215538,
+        "longitud": -99.06048195729954,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048915880054178,
+        "longitud": -99.06057699702586,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04896106821911,
+        "longitud": -99.0605770134234,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.048961052620044,
+        "longitud": -99.06062453329933,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049006240784717,
+        "longitud": -99.06062454970977,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049006209549805,
+        "longitud": -99.06071958948726,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049051397714177,
+        "longitud": -99.06071960592347,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04905136643026,
+        "longitud": -99.06081464572648,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049096554594332,
+        "longitud": -99.06081466218848,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049096523261404,
+        "longitud": -99.06090970201704,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049141711425175,
+        "longitud": -99.0609097185048,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04914169574032,
+        "longitud": -99.06095723843187,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049186883903833,
+        "longitud": -99.06095725493255,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049186836775768,
+        "longitud": -99.06109981475207,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049232024938938,
+        "longitud": -99.06109983129137,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049232009205078,
+        "longitud": -99.061147351244,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049277197367985,
+        "longitud": -99.06114736779621,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04927716586349,
+        "longitud": -99.06124240772704,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049322354026092,
+        "longitud": -99.06124242430501,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049322338255454,
+        "longitud": -99.06128994428322,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.0493675264178,
+        "longitud": -99.0612899608741,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04936747903238,
+        "longitud": -99.06143252084702,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.04941266719438,
+        "longitud": -99.06143253747655,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.049412651374737,
+        "longitud": -99.06148005748031,
+        "n_riesgo": "Medio"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.05357049246003,
+        "longitud": -99.05986586838617,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.05325417545451,
+        "longitud": -99.05986575492238,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.05320898730998,
+        "longitud": -99.05986573871346,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053208971890694,
+        "longitud": -99.05991325979939,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.05316378374598,
+        "longitud": -99.05991324357764,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053163768314498,
+        "longitud": -99.05996076465065,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053118580169606,
+        "longitud": -99.05996074841609,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053118549270025,
+        "longitud": -99.06005579053627,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053163737414838,
+        "longitud": -99.06005580679656,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053163721946657,
+        "longitud": -99.06010332786944,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053389662667218,
+        "longitud": -99.06010340923599,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053389647186602,
+        "longitud": -99.06015093037315,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053434835330012,
+        "longitud": -99.06015094665948,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053434819837122,
+        "longitud": -99.06019846780946,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053480007980276,
+        "longitud": -99.06019848410868,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053479992475115,
+        "longitud": -99.0602460052715,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.053570368760663,
+        "longitud": -99.06024603789581,
+        "n_riesgo": "Alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.083632672699466,
+        "longitud": -99.12561028077407,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.083406733139935,
+        "longitud": -99.12561011043519,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.0834067007447,
+        "longitud": -99.12565764003884,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.08345188865694,
+        "longitud": -99.12565767411931,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.08345182382952,
+        "longitud": -99.12575273335197,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.083497011741414,
+        "longitud": -99.1257527674582,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.083496946864997,
+        "longitud": -99.12584782671631,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.08354213477632,
+        "longitud": -99.12584786084844,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.083542102319637,
+        "longitud": -99.1258953904903,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.083587290230856,
+        "longitud": -99.12589542463539,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.083587192787025,
+        "longitud": -99.12603801359879,
+        "n_riesgo": "Muy alto"
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "latitud": 19.08363238069766,
+        "longitud": -99.12603804778283,
+        "n_riesgo": "Muy alto"
+    }
+]

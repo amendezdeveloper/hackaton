@@ -1,64 +1,67 @@
-<div class="row g-5">
-  <div class="col">
-    <h4 class="mb-3">Reporte</h4>
-    <form class="needs-validation">
-      <div class="row g-3">
-        <div class="col-md-5">
-          <label for="tip_reporte" class="form-label">Tipo de reporte</label>
-          <select class="form-select" id="tip_reporte" required>
-            <option value="">Escoge...</option>
-            <option>Incendio</option>
-            <option>Problemas con agua</option>
-          </select>
-          <div class="invalid-feedback">Por favor selecciona el tipo de reporte.</div>
+<main class="container">
+  <div class="row g-5">
+    <div class="col">
+      <h4 class="mb-3">Reporte</h4>
+      <form class="needs-validation">
+        <div class="row g-3">
+          <div class="col-md-5">
+            <label for="tip_reporte" class="form-label">Tipo de reporte</label>
+            <select class="form-select" id="tip_reporte" required>
+              <option value="">Escoge...</option>
+              <option>Incendio</option>
+              <option>Problemas con agua</option>
+            </select>
+            <div class="invalid-feedback">Por favor selecciona el tipo de reporte.</div>
+          </div>
+
+          <div class="col-md-3">
+            <label for="zip" class="form-label">Codigo Postal</label>
+            <input type="text" class="form-control" id="zip" placeholder="" required />
+            <div class="invalid-feedback">Codigo postal necesario.</div>
+          </div>
+
+          <div class="col-md-4">
+            <label for="alcaldia" class="form-label">Alcaldia</label>
+            <select class="form-select" id="alcaldia" required>
+              <option value="">Escoge...</option>
+              <option *ngFor="let alcaldia of alcaldias">{{alcaldia.alcaldia}}</option>
+            </select>
+            <div class="invalid-feedback">Por favor ingresa la alcaldía.</div>
+          </div>
+
+          <div class="col-md-5">
+            <label for="sub_tipo" class="form-label">Subtipo de reporte</label>
+            <select class="form-select" id="sub_tipo" required>
+              <option value="">Escoge...</option>
+              <option>Coladera desagüe pluvial</option>
+              <option>Fuga</option>
+              <option>Falta de agua</option>
+              <option>Encharcamiento</option>
+            </select>
+            <div class="invalid-feedback">Por favor selecciona el subtipo de reporte.</div>
+          </div>
+
+          <div class="col-md-4">
+            <label for="localizacion" class="form-label">Localización Maps</label>
+            <input type="text" class="form-control" id="localizacion" placeholder="" value="" />
+            <div class="invalid-feedback">Ingresa una locacion.</div>
+          </div>
         </div>
 
-        <div class="col-md-3">
-          <label for="zip" class="form-label">Codigo Postal</label>
-          <input type="text" class="form-control" id="zip" placeholder="" required />
-          <div class="invalid-feedback">Codigo postal necesario.</div>
+        <hr class="my-4" />
+
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="same-address" />
+          <label class="form-check-label" for="same-address">¿Hay personas heridas?</label>
         </div>
 
-        <div class="col-md-4">
-          <label for="alcaldia" class="form-label">Alcaldia</label>
-          <select class="form-select" id="alcaldia" required>
-            <option value="">Escoge...</option>
-            <option *ngFor="let alcaldia of alcaldias">{{alcaldia.alcaldia}}</option>
-          </select>
-          <div class="invalid-feedback">Por favor ingresa la alcaldía.</div>
-        </div>
+        <hr class="my-4" />
 
-        <div class="col-md-5">
-          <label for="sub_tipo" class="form-label">Subtipo de reporte</label>
-          <select class="form-select" id="sub_tipo" required>
-            <option value="">Escoge...</option>
-            <option>Coladera desagüe pluvial</option>
-            <option>Fuga</option>
-            <option>Falta de agua</option>
-            <option>Encharcamiento</option>
-          </select>
-          <div class="invalid-feedback">Por favor selecciona el subtipo de reporte.</div>
-        </div>
-
-        <div class="col-md-4">
-          <label for="localizacion" class="form-label">Localización Maps</label>
-          <input type="text" class="form-control" id="localizacion" placeholder="" value="" />
-          <div class="invalid-feedback">Ingresa una locacion.</div>
-        </div>
-      </div>
-
-      <hr class="my-4" />
-
-      <div class="form-check">
-        <input type="checkbox" class="form-check-input" id="same-address" />
-        <label class="form-check-label" for="same-address">¿Hay personas heridas?</label>
-      </div>
-
-      <hr class="my-4" />
-
-      <button class="w-100 btn btn-primary btn-lg" type="submit">
-        Continue to checkout
-      </button>
-    </form>
+        <button class="w-50 btn btn-primary btn-lg" type="submit">
+          Subir reporte
+        </button>
+      </form>
+    </div>
   </div>
-</div>
+
+</main>>

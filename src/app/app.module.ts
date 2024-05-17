@@ -12,6 +12,7 @@ import { ComunidadComponent } from './pages/comunidad/comunidad.component';
 import { ReportesComponent } from './pages/reportes/reportes.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ReporteRiesgoComponent } from './pages/reporte-riesgo/reporte-riesgo.component';
+import { EmpresasComponent } from './pages/empresas/empresas.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { ReporteRiesgoComponent } from './pages/reporte-riesgo/reporte-riesgo.co
     ComunidadComponent,
     ReportesComponent,
     HomeComponent,
-    ReporteRiesgoComponent
+    ReporteRiesgoComponent,
+    EmpresasComponent
   ],
   imports: [
     BrowserModule,

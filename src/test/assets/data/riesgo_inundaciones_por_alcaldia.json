@@ -1,0 +1,66 @@
+[
+    {
+        "alcaldia": "Azcapotzalco",
+        "num_eventos": 103
+    },
+    {
+        "alcaldia": "Benito Juárez",
+        "num_eventos": 102
+    },
+    {
+        "alcaldia": "Coyoacán",
+        "num_eventos": 156
+    },
+    {
+        "alcaldia": "Cuajimalpa de Morelos",
+        "num_eventos": 33
+    },
+    {
+        "alcaldia": "Cuauhtémoc",
+        "num_eventos": 153
+    },
+    {
+        "alcaldia": "Gustavo A. Madero",
+        "num_eventos": 306
+    },
+    {
+        "alcaldia": "Iztacalco",
+        "num_eventos": 111
+    },
+    {
+        "alcaldia": "Iztapalapa",
+        "num_eventos": 458
+    },
+    {
+        "alcaldia": "La Magdalena Contreras",
+        "num_eventos": 53
+    },
+    {
+        "alcaldia": "Miguel Hidalgo",
+        "num_eventos": 131
+    },
+    {
+        "alcaldia": "Milpa Alta",
+        "num_eventos": 46
+    },
+    {
+        "alcaldia": "Tlalpan",
+        "num_eventos": 211
+    },
+    {
+        "alcaldia": "Tláhuac",
+        "num_eventos": 115
+    },
+    {
+        "alcaldia": "Venustiano Carranza",
+        "num_eventos": 151
+    },
+    {
+        "alcaldia": "Xochimilco",
+        "num_eventos": 126
+    },
+    {
+        "alcaldia": "Álvaro Obregón",
+        "num_eventos": 200
+    }
+]

@@ -1,0 +1,97 @@
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) SELECT "CaptaMX_inegi_población"."alcaldia", SUM("CaptaMX_inegi_población"."poblacion_total") AS "poblacion_total" FROM "CaptaMX_inegi_población" GROUP BY "CaptaMX_inegi_población"."alcaldia"; args=(); alias=default
+(0.047) SELECT "CaptaMX_reportesagua"."alcaldia", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Fuga') AS "num_reportes_fuga", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Falta de agua') AS "num_reportes_falta_de_agua", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Encharcamiento') AS "num_reportes_encharcamiento", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Boca de tormenta') AS "num_reportes_desague_pluvial_bloqueado" FROM "CaptaMX_reportesagua" GROUP BY "CaptaMX_reportesagua"."alcaldia"; args=('Fuga', 'Falta de agua', 'Encharcamiento', 'Boca de tormenta'); alias=default
+(0.000) SELECT "CaptaMX_riesgosequias"."alcaldia", "CaptaMX_riesgosequias"."latitud", "CaptaMX_riesgosequias"."longitud", "CaptaMX_riesgosequias"."n_riesgo" FROM "CaptaMX_riesgosequias"; args=(); alias=default
+(0.000) SELECT "CaptaMX_atlasriesgoinundaciones"."alcaldia", COUNT("CaptaMX_atlasriesgoinundaciones"."id") AS "num_eventos" FROM "CaptaMX_atlasriesgoinundaciones" GROUP BY "CaptaMX_atlasriesgoinundaciones"."alcaldia"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) SELECT "CaptaMX_inegi_población"."alcaldia", SUM("CaptaMX_inegi_población"."poblacion_total") AS "poblacion_total" FROM "CaptaMX_inegi_población" GROUP BY "CaptaMX_inegi_población"."alcaldia"; args=(); alias=default
+(0.047) SELECT "CaptaMX_reportesagua"."alcaldia", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Fuga') AS "num_reportes_fuga", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Falta de agua') AS "num_reportes_falta_de_agua", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Encharcamiento') AS "num_reportes_encharcamiento", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Boca de tormenta') AS "num_reportes_desague_pluvial_bloqueado" FROM "CaptaMX_reportesagua" GROUP BY "CaptaMX_reportesagua"."alcaldia"; args=('Fuga', 'Falta de agua', 'Encharcamiento', 'Boca de tormenta'); alias=default
+(0.000) SELECT "CaptaMX_riesgosequias"."alcaldia", "CaptaMX_riesgosequias"."latitud", "CaptaMX_riesgosequias"."longitud", "CaptaMX_riesgosequias"."n_riesgo" FROM "CaptaMX_riesgosequias"; args=(); alias=default
+(0.000) SELECT "CaptaMX_atlasriesgoinundaciones"."alcaldia", COUNT("CaptaMX_atlasriesgoinundaciones"."id") AS "num_eventos" FROM "CaptaMX_atlasriesgoinundaciones" GROUP BY "CaptaMX_atlasriesgoinundaciones"."alcaldia"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) SELECT "CaptaMX_inegi_población"."alcaldia", SUM("CaptaMX_inegi_población"."poblacion_total") AS "poblacion_total" FROM "CaptaMX_inegi_población" GROUP BY "CaptaMX_inegi_población"."alcaldia"; args=(); alias=default
+(0.031) SELECT "CaptaMX_reportesagua"."alcaldia", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Fuga') AS "num_reportes_fuga", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Falta de agua') AS "num_reportes_falta_de_agua", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Encharcamiento') AS "num_reportes_encharcamiento", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Boca de tormenta') AS "num_reportes_desague_pluvial_bloqueado" FROM "CaptaMX_reportesagua" GROUP BY "CaptaMX_reportesagua"."alcaldia"; args=('Fuga', 'Falta de agua', 'Encharcamiento', 'Boca de tormenta'); alias=default
+(0.000) SELECT "CaptaMX_riesgosequias"."alcaldia", "CaptaMX_riesgosequias"."latitud", "CaptaMX_riesgosequias"."longitud", "CaptaMX_riesgosequias"."n_riesgo" FROM "CaptaMX_riesgosequias"; args=(); alias=default
+(0.000) SELECT "CaptaMX_atlasriesgoinundaciones"."alcaldia", COUNT("CaptaMX_atlasriesgoinundaciones"."id") AS "num_eventos" FROM "CaptaMX_atlasriesgoinundaciones" GROUP BY "CaptaMX_atlasriesgoinundaciones"."alcaldia"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) SELECT "CaptaMX_inegi_población"."alcaldia", SUM("CaptaMX_inegi_población"."poblacion_total") AS "poblacion_total" FROM "CaptaMX_inegi_población" GROUP BY "CaptaMX_inegi_población"."alcaldia"; args=(); alias=default
+(0.031) SELECT "CaptaMX_reportesagua"."alcaldia", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Fuga') AS "num_reportes_fuga", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Falta de agua') AS "num_reportes_falta_de_agua", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Encharcamiento') AS "num_reportes_encharcamiento", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Boca de tormenta') AS "num_reportes_desague_pluvial_bloqueado" FROM "CaptaMX_reportesagua" GROUP BY "CaptaMX_reportesagua"."alcaldia"; args=('Fuga', 'Falta de agua', 'Encharcamiento', 'Boca de tormenta'); alias=default
+(0.000) SELECT "CaptaMX_riesgosequias"."alcaldia", "CaptaMX_riesgosequias"."latitud", "CaptaMX_riesgosequias"."longitud", "CaptaMX_riesgosequias"."n_riesgo" FROM "CaptaMX_riesgosequias"; args=(); alias=default
+(0.000) SELECT "CaptaMX_atlasriesgoinundaciones"."alcaldia", COUNT("CaptaMX_atlasriesgoinundaciones"."id") AS "num_eventos" FROM "CaptaMX_atlasriesgoinundaciones" GROUP BY "CaptaMX_atlasriesgoinundaciones"."alcaldia"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) SELECT "CaptaMX_inegi_población"."alcaldia", SUM("CaptaMX_inegi_población"."poblacion_total") AS "poblacion_total" FROM "CaptaMX_inegi_población" GROUP BY "CaptaMX_inegi_población"."alcaldia"; args=(); alias=default
+(0.031) SELECT "CaptaMX_reportesagua"."alcaldia", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Fuga') AS "num_reportes_fuga", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Falta de agua') AS "num_reportes_falta_de_agua", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Encharcamiento') AS "num_reportes_encharcamiento", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Boca de tormenta') AS "num_reportes_desague_pluvial_bloqueado" FROM "CaptaMX_reportesagua" GROUP BY "CaptaMX_reportesagua"."alcaldia"; args=('Fuga', 'Falta de agua', 'Encharcamiento', 'Boca de tormenta'); alias=default
+(0.000) SELECT "CaptaMX_riesgosequias"."alcaldia", "CaptaMX_riesgosequias"."latitud", "CaptaMX_riesgosequias"."longitud", "CaptaMX_riesgosequias"."n_riesgo" FROM "CaptaMX_riesgosequias"; args=(); alias=default
+(0.000) SELECT "CaptaMX_atlasriesgoinundaciones"."alcaldia", COUNT("CaptaMX_atlasriesgoinundaciones"."id") AS "num_eventos" FROM "CaptaMX_atlasriesgoinundaciones" GROUP BY "CaptaMX_atlasriesgoinundaciones"."alcaldia"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) SELECT "CaptaMX_inegi_población"."alcaldia", SUM("CaptaMX_inegi_población"."poblacion_total") AS "poblacion_total" FROM "CaptaMX_inegi_población" GROUP BY "CaptaMX_inegi_población"."alcaldia"; args=(); alias=default
+(0.047) SELECT "CaptaMX_reportesagua"."alcaldia", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Fuga') AS "num_reportes_fuga", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Falta de agua') AS "num_reportes_falta_de_agua", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Encharcamiento') AS "num_reportes_encharcamiento", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Boca de tormenta') AS "num_reportes_desague_pluvial_bloqueado" FROM "CaptaMX_reportesagua" GROUP BY "CaptaMX_reportesagua"."alcaldia"; args=('Fuga', 'Falta de agua', 'Encharcamiento', 'Boca de tormenta'); alias=default
+(0.000) SELECT "CaptaMX_riesgosequias"."alcaldia", "CaptaMX_riesgosequias"."latitud", "CaptaMX_riesgosequias"."longitud", "CaptaMX_riesgosequias"."n_riesgo" FROM "CaptaMX_riesgosequias"; args=(); alias=default
+(0.000) SELECT "CaptaMX_atlasriesgoinundaciones"."alcaldia", COUNT("CaptaMX_atlasriesgoinundaciones"."id") AS "num_eventos" FROM "CaptaMX_atlasriesgoinundaciones" GROUP BY "CaptaMX_atlasriesgoinundaciones"."alcaldia"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) SELECT "CaptaMX_inegi_población"."alcaldia", SUM("CaptaMX_inegi_población"."poblacion_total") AS "poblacion_total" FROM "CaptaMX_inegi_población" GROUP BY "CaptaMX_inegi_población"."alcaldia"; args=(); alias=default
+(0.047) SELECT "CaptaMX_reportesagua"."alcaldia", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Fuga') AS "num_reportes_fuga", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Falta de agua') AS "num_reportes_falta_de_agua", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Encharcamiento') AS "num_reportes_encharcamiento", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Boca de tormenta') AS "num_reportes_desague_pluvial_bloqueado" FROM "CaptaMX_reportesagua" GROUP BY "CaptaMX_reportesagua"."alcaldia"; args=('Fuga', 'Falta de agua', 'Encharcamiento', 'Boca de tormenta'); alias=default
+(0.000) SELECT "CaptaMX_riesgosequias"."alcaldia", "CaptaMX_riesgosequias"."latitud", "CaptaMX_riesgosequias"."longitud", "CaptaMX_riesgosequias"."n_riesgo" FROM "CaptaMX_riesgosequias"; args=(); alias=default
+(0.000) SELECT "CaptaMX_atlasriesgoinundaciones"."alcaldia", COUNT("CaptaMX_atlasriesgoinundaciones"."id") AS "num_eventos" FROM "CaptaMX_atlasriesgoinundaciones" GROUP BY "CaptaMX_atlasriesgoinundaciones"."alcaldia"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.000) SELECT "CaptaMX_inegi_población"."alcaldia", SUM("CaptaMX_inegi_población"."poblacion_total") AS "poblacion_total" FROM "CaptaMX_inegi_población" GROUP BY "CaptaMX_inegi_población"."alcaldia"; args=(); alias=default
+(0.032) SELECT "CaptaMX_reportesagua"."alcaldia", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Fuga') AS "num_reportes_fuga", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Falta de agua') AS "num_reportes_falta_de_agua", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Encharcamiento') AS "num_reportes_encharcamiento", COUNT("CaptaMX_reportesagua"."id") FILTER (WHERE "CaptaMX_reportesagua"."reporte" = 'Boca de tormenta') AS "num_reportes_desague_pluvial_bloqueado" FROM "CaptaMX_reportesagua" GROUP BY "CaptaMX_reportesagua"."alcaldia"; args=('Fuga', 'Falta de agua', 'Encharcamiento', 'Boca de tormenta'); alias=default
+(0.000) SELECT "CaptaMX_riesgosequias"."alcaldia", "CaptaMX_riesgosequias"."latitud", "CaptaMX_riesgosequias"."longitud", "CaptaMX_riesgosequias"."n_riesgo" FROM "CaptaMX_riesgosequias"; args=(); alias=default
+(0.000) SELECT "CaptaMX_atlasriesgoinundaciones"."alcaldia", COUNT("CaptaMX_atlasriesgoinundaciones"."id") AS "num_eventos" FROM "CaptaMX_atlasriesgoinundaciones" GROUP BY "CaptaMX_atlasriesgoinundaciones"."alcaldia"; args=(); alias=default
