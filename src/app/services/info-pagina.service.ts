@@ -19,7 +19,7 @@ export class InfoPaginaService {
       .subscribe((resp: any) => {
         this.info.indices = resp;
         this.cargada = true;
-        console.log(this.info.indices);
+        //console.log(this.info.indices);
       });
   }
 

@@ -13,6 +13,7 @@ import { ReportesComponent } from './pages/reportes/reportes.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ReporteRiesgoComponent } from './pages/reporte-riesgo/reporte-riesgo.component';
 import { EmpresasComponent } from './pages/empresas/empresas.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { EmpresasComponent } from './pages/empresas/empresas.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [
     provideClientHydration()
